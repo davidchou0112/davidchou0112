@@ -25,3 +25,6 @@ I am a full-stack software engineer.
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+## Thanks for stopping by!
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=davidchou0112.visitor-badge)
