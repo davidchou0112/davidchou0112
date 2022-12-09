@@ -1,12 +1,17 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+# Hi I'm David! 
+I am a full-stack software engineer.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidchou0112&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidchou0112&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Let's get connected!
-<a href="https://www.linkedin.com/in/david-chou-a47026249/" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-chou-a47026249/)
+[![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/yow-pyng-chou)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</a>
-<br>
+
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,3 +23,5 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
